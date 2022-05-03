@@ -1,0 +1,15 @@
+{
+  "short_name": "Super Duper Cookie Clicker",
+  "name": "The Super Duper Cookie Clicker",
+  "icons": [
+    {
+      "src": "cookie-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
